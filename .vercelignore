@@ -1,0 +1,11 @@
+node_modules
+src
+public
+.git
+.vercel
+package-lock.json
+package.json
+vite.config.js
+eslint.config.js
+README.md
+SUBMISSION.md
